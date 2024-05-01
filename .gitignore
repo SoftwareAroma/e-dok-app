@@ -1,4 +1,4 @@
-/content/**/*.gguf
+/src/content/**/*.gguf
 vscode/
 vs/
 .idea/
